@@ -1,0 +1,25 @@
+.home-info {
+    padding-left: 40px;
+    height: 2000px;
+
+}
+.title {
+    font: bold;
+    padding-bottom: 40px;
+}
+.left-side {
+    font-size: larger;
+    padding-top: 100px;
+    width: 500px;
+    margin-right: 60px;
+}
+.right-side {
+    padding-top: 50px;
+}
+.heading {
+    padding-bottom: 20px;
+}
+
+.work-button {
+    padding-top: 20px;
+}

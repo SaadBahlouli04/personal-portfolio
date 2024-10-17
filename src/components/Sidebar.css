@@ -1,0 +1,11 @@
+.sidebar {
+    font-size: x-large;
+    font-weight: 200;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sidebar-box {
+    background-color: #cfdef8;
+    height: 100vh;
+    display: flex;
+}
